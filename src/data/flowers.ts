@@ -425,7 +425,7 @@ export const FLOWERS: Flower[] = [
     description: 'Kalp şeklindeki yaprakları ve mor tonlarındaki zarif çiçekleriyle bilinen sevimli bir bitkidir.',
     emoji: '💜',
     imageUrl: 'https://lh3.googleusercontent.com/d/1UrXTmr8DNHCsgTrHEyvFXz-BAXQcD6GY',
-    videoUrl: 'https://www.youtube.com/embed/utbYlYE6f8E',
+    videoUrl: 'https://www.youtube.com/embed/TJGWlAA1TCU',
     quizQuestions: [
       {
         question: 'Menekşenin yaprakları genellikle ne şekildedir?',
